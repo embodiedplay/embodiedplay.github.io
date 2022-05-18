@@ -4,7 +4,7 @@ permalink: /
 projectName: 'STEP'
 ---
 
-## About STEP
+## About STEP 
 
 In the Science through Technology Enhanced Play (PLAY) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees). 
 
