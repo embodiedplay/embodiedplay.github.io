@@ -5,11 +5,66 @@
   role: Co-PI
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
-  status: Member
+  status: Team Member
   
 - last: Enyedy
   first: Noel
   role: Co-PI
   affiliation: Vanderbilt University
-  status: Member
+  status: Team Member
   
+- last: Humburg
+  first: Megan
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Past Team Member
+
+  
+- last: Tu
+  first: Xintian
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+
+  
+- last: Vickery
+  first: Morgan
+  role: Graduate Researcher
+  url: http://morganavickery.com
+  affiliation: Indiana University Bloomington
+  status: Team Member
+
+- last: Davis
+  first: Bria
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Past Team Member
+
+- last: Zhou
+  first: Mengxi
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+    
+- last: Ryan
+  first: Zach
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+  
+- last: Mathayas
+  first: Nitasha
+  role: Postdoctoral Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+  
+  
+- last: Saleh
+  first: Asmalina
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Georgen
+  first: Chris
+  role: Graduate Researcher
+  status: Past Team Member
