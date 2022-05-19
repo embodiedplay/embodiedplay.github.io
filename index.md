@@ -6,7 +6,11 @@ projectName: 'STEP'
 
 ## About STEP 
 
-In the Science through Technology Enhanced Play (PLAY) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees). 
+In the Science through Technology Enhanced Play (PLAY) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees).
+
+This is a recent implementation of GEM-STEP in action:
+
+<a href="/assets/img/gem_stem_action.png" target="_blank"><img src="assets/img/gem_stem_action.png" alt="Image of children in a classroom  using GEM-STEP and the GEM-STEP screen"></a>
 
 This video illustrates using the STEP-BEES platform:
 <iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
