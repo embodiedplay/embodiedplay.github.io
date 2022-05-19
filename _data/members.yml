@@ -16,7 +16,6 @@
 - last: Humburg
   first: Megan
   role: Graduate Researcher
-  affiliation: Indiana University Bloomington
   status: Past Team Member
 
   
@@ -37,7 +36,6 @@
 - last: Davis
   first: Bria
   role: Graduate Researcher
-  affiliation: Indiana University Bloomington
   status: Past Team Member
 
 - last: Zhou
@@ -63,8 +61,37 @@
   role: Postdoctoral Researcher
   affiliation: Indiana University Bloomington
   status: Team Member
+
+- last: Anton 
+  first: Gabriella
+  role: Postdoctoral Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Lee 
+  first: Sarah
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
   
-  
+- last: Jen
+  first: Tessaly
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Cosic
+  first: Lana
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Din
+  first: Efrat
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
 - last: Saleh
   first: Asmalina
   role: Graduate Researcher
@@ -72,5 +99,30 @@
 
 - last: Georgen
   first: Chris
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Lee
+  first: Christine
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Lindberg
+  first: Lindsay
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Keifert
+  first: Teo (Danielle)
+  role: Postdoctoral Researcher
+  status: Past Team Member
+
+- last: Dahn
+  first: Maggie
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: DeLiema
+  first: David
   role: Graduate Researcher
   status: Past Team Member
