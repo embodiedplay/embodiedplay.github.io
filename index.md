@@ -9,7 +9,7 @@ projectName: 'STEP'
 In the Science through Technology Enhanced Play (PLAY) project, we are investigating how embodied play among elementary school students can be used to help them understand scientific phenomena (e.g., the working of forces, complex behaviors of bees). 
 
 This video illustrates using the STEP-BEES platform:
-<iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 The STEP Project consists of a collection of grants including:
