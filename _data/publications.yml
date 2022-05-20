@@ -245,3 +245,19 @@
   project: 'STEP'
   type: 'Journal Article'
   date: '2019'
+
+- citation: 'Craig, Kalani, Humburg, Megan, Danish, Joshua,  Szostalo, Maksymilian, Hmelo-Silver,  Cindy E. , McCranie, Ann (2020) Increasing students’ social engagement during COVID-19 with Net.Create: collaborative social network analysis to map historical pandemics during a pandemic, Information and Learning Sciences, Vol. 121 No. 7/8 (July 2020), pp. 533-547.'
+  project: 'Net.Create'
+  type: 'Journal Article'
+  date: '2020'
+  links:
+  - url: 'https://doi.org/10.1108/ILS-04-2020-0105'
+    linklabel: 'paper'
+
+- citation: 'DeLiema, D., Enyedy, N., Steen, F., & Danish, J. A. (2021). Integrating Viewpoint and Space: How Lamination across Gesture, Body Movement, Language, and Material Resources Shapes Learning. Cognition and Instruction, 1-38.'
+  project: 'STEP'
+  type: 'Journal Article'
+  date: '2021'
+  links:
+  - url: 'https://www.tandfonline.com/doi/abs/10.1080/07370008.2021.1928133'
+    linklabel: 'paper'
