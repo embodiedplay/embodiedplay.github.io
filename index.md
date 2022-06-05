@@ -13,7 +13,8 @@ Below is an image of a recent implementation of our most recent version, GEM-STE
 <a href="/assets/img/gem_stem_action.png" target="_blank"><img src="assets/img/gem_stem_action.png" alt="Image of children in a classroom  using GEM-STEP and the GEM-STEP screen"></a>
 
 This video illustrates using the STEP-BEES platform:
-<iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="100%" frameborder="0" allow="autoplay; fullscreen;" allowfullscreen></iframe>
+
+<div style="padding:10% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 The STEP Project is the result of a series of grants including:
 
