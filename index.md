@@ -13,8 +13,9 @@ Below is an image of a recent implementation of our most recent version, GEM-STE
 <a href="/assets/img/gem_stem_action.png" target="_blank"><img src="assets/img/gem_stem_action.png" alt="Image of children in a classroom  using GEM-STEP and the GEM-STEP screen"></a>
 
 This video illustrates using the STEP-BEES platform:
-<iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="500" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<div width="100%">
+    <iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 The STEP Project is the result of a series of grants including:
 
 - **STEP**: Our initial foray into exploring how embodied play can support students in engaging with scientific concepts. We explored different kinds of play (modeling oriented sociodramatic play and more game-like play) as well as exploring two content areas–the particulate nature of matter, and honeybees collecting nectar.  Grant Abstract
