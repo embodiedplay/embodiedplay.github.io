@@ -14,7 +14,7 @@ Below is an image of a recent implementation of our most recent version, GEM-STE
 
 This video illustrates using the STEP-BEES platform:
 
-<div><iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div style="padding:0 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/164627313?h=882ac3308e" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 The STEP Project is the result of a series of grants including:
 
