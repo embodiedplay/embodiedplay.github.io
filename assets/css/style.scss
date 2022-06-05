@@ -6,16 +6,22 @@
 	background-image: "/assets/img/background.jpg"
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color:#5b579d
+h1 {
+    color:#3c388b;
+    font-family: 'Libre Bodoni', serif;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #3c388b;
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 a {
-    color:#5b579d
+    color:#3c388b
 }
 
 a:hover {
-    color:#000
+    color:#3c388b
 }
 
 a:hover, a:active {
@@ -43,8 +49,10 @@ header li {
     float: left;
     background-color:#ffffff;
     height:40px;
-	border-top: 2px solid #e5e5e5;
+	border-top: 2px solid #23395D;
+    color:#3c388b;
 	border-radius: 0px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 header li:first-child a {
@@ -57,10 +65,13 @@ header li:last-child a {
 	border-radius: 0px;
 }
 
+.pubicon {
+    margin: 4px 4px 10px 20px;
+}
+
 header ul li a {
     border:0px;
     line-height: 1;
-    font-size: 11px;
     display: block;
     text-align: center;
     padding-top: 6px;
@@ -68,10 +79,9 @@ header ul li a {
 }
 
 header ul li a:hover, header ul li a:focus {
-    color: #ffffff;
-    background-color: #422050;
+    background-color: #b2d6e9;
     font-weight:normal;
-	border-top: 2px solid #6d68d0;
+	border-top: 2px solid #23395D;
 }
 
 header ul a:active {
@@ -86,8 +96,6 @@ header ul a strong {
     display: block;
     color:#222
 }
-
-
 
 
 
@@ -121,7 +129,7 @@ header ul a strong {
 
 .myButton {
 	box-shadow: 0px 10px 14px -7px #cdcdcd;
-	background-color:#5b579d;
+	background-color:#23395d;
 	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
@@ -148,6 +156,122 @@ footer {
 	bottom:0px;
 }
 
-ul.pubs li {
-	margin-top: 5px;
+.left {
+    @media print, screen and (min-width: 40em) {
+        float:left;
+        display:inline;
+        width: 35%;
+    }
 }
+
+
+.thinLeft {
+    @media print, screen and (min-width: 40em) {
+        float:left;
+        display:inline;
+        width: 25%;
+    }
+}
+
+.right {
+    @media print, screen and (min-width: 40em) {
+        float:left;
+        display:inline;
+        width: 65%;
+    }
+}
+
+ul.pubs {
+    list-style-type: none;
+}
+ul.pubs li {
+    text-indent: -2em; 
+    margin: 0.33em 1em 0.5em 3em;
+}
+
+.row {
+    margin-top: .7em;
+}
+.row h2 {
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+.responsive-card-table {
+    border-collapse: collapse;
+  }
+  
+  .responsive-card-table.unstriped tbody {
+    background-color: transparent;
+  }
+  
+  .responsive-card-table th {
+    background-color: #e6e6e6;
+  }
+  
+  .responsive-card-table tr,
+  .responsive-card-table th,
+  .responsive-card-table td {
+    border: 1px solid #0a0a0a;
+  }
+  
+  @media screen and (max-width: 640px) {
+    .responsive-card-table {
+      
+    }
+    .responsive-card-table thead tr {
+      position: absolute;
+      top: -9999em;
+      left: -9999em;
+    }
+    .responsive-card-table tr {
+      border: 1px solid #0a0a0a;
+      display: block;
+    }
+    .responsive-card-table tr + tr {
+      margin-top: 1.5rem;
+    }
+    .responsive-card-table td {
+      border: none;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-justify-content: flex-start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      border-bottom: 1px solid #0a0a0a;
+      padding-left: 50%;
+      position: relative;
+    }
+    .responsive-card-table td:before {
+      content: attr(data-label);
+      display: inline-block;
+      font-weight: bold;
+      line-height: 1.5;
+      margin-left: -100%;
+      width: 100%;
+      position: relative;
+      z-index: 1;
+    }
+    .responsive-card-table td:after {
+      content: '';
+      position: absolute;
+      background: #e6e6e6;
+      width: 45%;
+      height: 95%;
+      left: 1px;
+      top: 1px;
+      z-index: 0;
+    }
+  }
+  
+  
