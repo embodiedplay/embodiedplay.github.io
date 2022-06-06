@@ -6,50 +6,121 @@
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
   status: Team Member
-  pic: /assets/img/people/jdanish.jpg
   
-- last: Hmelo-Silver
-  first: Cindy
-  role: Co-PI
-  url: https://education.indiana.edu/about/directory/profiles/hmelo-silver-cindy.html
-  affiliation: Indiana University Bloomington
-  status: Team Member
-  pic: /assets/img/people/hmelo-silver-cindy.jpg
-
-- last: Park Rogers
-  first: Meredith
-  role: Co-PI
-  affiliation: Indiana University Bloomington
-  status: Team Member
-  pic: /assets/img/people/park_rogers-meredith-a.jpg
-
 - last: Enyedy
   first: Noel
   role: Co-PI
   affiliation: Vanderbilt University
   status: Team Member
-  pic: /assets/img/people/noel-enyedy.png
-
-- last: Nicholas
-  first: Celeste
-  role: Previously a Postdoctoral Researcher
-  status: Past Team Member
-
-- last: Stiso
-  first: Christina
-  role: Graduate Researcher
-  url:  http://christinastiso.com
-  status: Team Member
-  affiliation: Indiana University Bloomington
-
+  
 - last: Humburg
   first: Megan
   role: Graduate Researcher
-  status: Team Member
-  affiliation: Indiana University Bloomington
+  status: Past Team Member
   
 - last: Tu
   first: Xintian
   role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+  
+- last: Vickery
+  first: Morgan
+  role: Graduate Researcher
+  url: http://morganavickery.com
+  affiliation: Indiana University Bloomington
+  status: Team Member
+
+- last: Davis
+  first: Bria
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Zhou
+  first: Mengxi
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+    
+- last: Ryan
+  first: Zach
+  role: Graduate Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+  
+- last: Steinberg
+  first: Selena
+  role: Graduate Researcher
   status: Team Member
   affiliation: Indiana University Bloomington
+
+- last: Mathayas
+  first: Nitasha
+  role: Postdoctoral Researcher
+  affiliation: Indiana University Bloomington
+  status: Team Member
+
+- last: Anton 
+  first: Gabriella
+  role: Postdoctoral Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Lee 
+  first: Sarah
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+  
+- last: Jen
+  first: Tessaly
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Cosic
+  first: Lana
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Din
+  first: Efrat
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Saleh
+  first: Asmalina
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Georgen
+  first: Chris
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Lee
+  first: Christine
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Lindberg
+  first: Lindsay
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: Keifert
+  first: Teo (Danielle)
+  role: Postdoctoral Researcher
+  status: Past Team Member
+
+- last: Dahn
+  first: Maggie
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: DeLiema
+  first: David
+  role: Graduate Researcher
+  status: Past Team Member
