@@ -46,6 +46,8 @@ h2 {
 }
 
 .written-in-ink {
+    visibility: hidden;
+
     z-index: 3;
     font-size: 9pt;
     font-family: sans-serif;
