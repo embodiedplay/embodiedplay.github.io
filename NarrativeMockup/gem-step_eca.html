@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        html,
+        body {
+          margin: 0;
+          padding: 0;
+          height: 100%;
+          overflow: hidden;
+        }
+    
+        .frame1 {
+          width: 25%;
+          height: 100%;
+          float: left;
+        }
+    
+        .frame2 {
+          width: 75%;
+          height: 100%;
+          float: left;
+        }
+    
+        iframe {
+          width: 100%;
+          height: 100%;
+          border: none;
+        }
+        
+        .button-container {
+          position: fixed;
+          top: 10px;
+          left: 10px;
+          background-color: lightgray;
+          padding: 10px;
+          z-index: 9999;
+        }
+        
+        .button-container button {
+          color: black;
+        }
+      </style>
+</head>
+<body>
+  <div class="button-container">
+    <button onclick="toggleFrameSizes()">Shrink</button><br>
+    <button onclick="loadGS()">GEM-STEP</button><br>
+    <button onclick="loadMEME()">MEME</button><br>
+
+  </div>
+  <div class="frame1">
+    <iframe src="BeaverNarrative/index.html" id="frame1"></iframe>
+  </div>
+  <div class="frame2">
+    <iframe src="http://localhost/app/login" id="frame2"></iframe>
+  </div>
+
+  <script>
+    var isExpanded = true;
+
+    function toggleFrameSizes() {
+      var frame1 = document.querySelector('.frame1');
+      var frame2 = document.querySelector('.frame2');
+      var button = document.querySelector('button');
+
+      if (isExpanded) {
+        frame1.style.width = '10%';
+        frame2.style.width = '90%';
+        button.textContent = 'Expand';
+      } else {
+        frame1.style.width = '25%';
+        frame2.style.width = '75%';
+        button.textContent = 'Shrink';
+      }
+
+      isExpanded = !isExpanded;
+    }
+    
+    function loadGS() {
+      var frame2 = document.getElementById('frame2');
+      frame2.src = 'http://localhost/app/login';
+    }
+
+    function loadMEME() {
+      var frame2 = document.getElementById('frame2');
+      frame2.src = 'http://167.172.147.247:3000/#/';
+    }
+  </script>
+</body>
+</html>
