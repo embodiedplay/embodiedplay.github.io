@@ -268,6 +268,10 @@ body.dark {
     font-style: italic;
 }
 
+body.dark .model {
+    color: rgb(186, 147, 241);
+}
+
 .ECA {
     color: rgb(6, 136, 93);
     font-weight: bold;
