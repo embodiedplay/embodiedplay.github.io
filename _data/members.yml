@@ -2,154 +2,133 @@
 
 - last: Danish
   first: Joshua
-  role: Lab Director, Professor
-  status: Current Lab Member
+  role: Co-PI
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
-  interests: embodied learning, science education, representations, eelementary education, activity, play, technology in learning / CSCL
-  pic: /assets/img/people/jdanish.jpg
-  pronouns: He/Him
+  status: Team Member
+  
+- last: Enyedy
+  first: Noel
+  role: Co-PI
+  affiliation: Vanderbilt University
+  status: Team Member
   
 - last: Humburg
   first: Megan
-  role: Postdoctoral Researcher
-  status: Current Lab Member
-  affiliation: Indiana University Bloomington
+  role: Graduate Researcher
+  status: Past Team Member
   pic: /assets/img/people/Megan.jpg
   url: https://scholar.google.com/citations?user=76ShWdIAAAAJ&hl=en&oi=ao
-  interests: social and emotional engagaement, embodied learning, playful inquiry
-  pronouns: She/Her
 
 - last: Tu
   first: Xintian
   role: Graduate Researcher
-  status: Current Lab Member
   affiliation: Indiana University Bloomington
-  pic: /assets/img/people/Xintian.jpg
+  status: Team Member
   interests: play, embodied learning, extended reality environments
   url: https://tuxintian.com/
-  pronouns: She/Her
-
-- last: Gok
-  first: Sebahat
-  role: Graduate Researcher
-  status: Current Lab Member
-  affiliation: Indiana University Bloomington
-  pic: /assets/img/people/vesika.jpg
-  interests: representations, instructional design, grounded cognition
-  url: https://scholar.google.com/citations?user=p0I0oH0AAAAJ&hl=en&oi=ao
 
 - last: Vickery
   first: Morgan
   role: Graduate Researcher
   url: http://morganavickery.com
-  status: Current Lab Member
   affiliation: Indiana University Bloomington
-  pic: /assets/img/people/mavickery.jpeg
-  interests: embodied learning, multimodality, disability, trauma, body image, bodily autonomy, participatory design, accessibility / inclusive design
-  pronouns: She/Her
+  status: Team Member
 
 - last: Davis
   first: Bria
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
-  
+  role: Graduate Researcher
+  status: Past Team Member
+
 - last: Zhou
   first: Mengxi
   role: Graduate Researcher
-  status: Current Lab Member
   affiliation: Indiana University Bloomington
-  interests: embodied learning, collaboration, activity
-  pic: /assets/img/people/Mengxi.jpg
+  status: Team Member
   url: https://scholar.google.com/citations?hl=en&pli=1&user=cX5zOsMAAAAJ
-  pronouns: She/Her
-  
+   
 - last: Ryan
   first: Zach
   role: Graduate Researcher
-  status: Current Lab Member
   affiliation: Indiana University Bloomington
-  pronouns: He/Him
-
+  status: Team Member
   
 - last: Steinberg
   first: Selena
   role: Graduate Researcher
-  status: Current Lab Member
+  status: Team Member
   affiliation: Indiana University Bloomington
-  interests: STEAM, embodied learning, play, identity
-  pic: /assets/img/people/Selena.jpg
   url: https://scholar.google.com/citations?user=B0O79xgAAAAJ&hl=en&oi=ao
-  pronouns: She/Her
- 
 
-- last: Stiso
-  first: Christina
-  role: Graduate Researcher
-  url:  http://christinastiso.com
-  status: Current Lab Member
-  affiliation: Indiana University Bloomington
-  pic: /assets/img/people/Christina_STISO.jpg
-  interests: play, justice, technology
-  pronouns: She/Her
-  
 - last: Mathayas
   first: Nitasha
   role: Postdoctoral Researcher
-  status: Current Lab Member
   affiliation: Indiana University Bloomington
-  pronouns: She/Her
-  
-- last: Nicholas
-  first: Celeste
-  role: Previously a Postdoctoral Researcher
-  status: Lab Alumni
-  url: https://www.linkedin.com/in/celeste-nicholas/
-  affiliation: Research Data Analyst at IU Richard M Fairbanks School of Public Health, Indiana University Purdue University – Indianapolis
+  status: Team Member
 
+- last: Anton 
+  first: Gabriella
+  role: Postdoctoral Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Lee 
+  first: Sarah
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
   
+- last: Jen
+  first: Tessaly
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Cosic
+  first: Lana
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
+- last: Dim
+  first: Efrat
+  role: Graduate Researcher
+  affiliation: Vanderbilt University
+  status: Team Member
+
 - last: Saleh
   first: Asmalina
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
+  role: Graduate Researcher
+  status: Past Team Member
 
 - last: Georgen
   first: Chris
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
+  role: Graduate Researcher
+  status: Past Team Member
 
-- last: Andrade
-  first: Alejandro
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
+- last: Lee
+  first: Christine
+  role: Graduate Researcher
+  status: Past Team Member
 
-- last: McWilliams
-  first: Jake
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
+- last: Lindberg
+  first: Lindsay
+  role: Graduate Researcher
+  status: Past Team Member
 
-- last: Phelps
+- last: Keifert
+  first: Teo (Danielle)
+  role: Former Postdoctoral Researcher
+  status: Past Team Member
+  affiliation: University of North Texas
+  url: https://daniellekeifert.com/
+
+- last: Dahn
+  first: Maggie
+  role: Graduate Researcher
+  status: Past Team Member
+
+- last: DeLiema
   first: David
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
-
-- last: Keene
-  first: Johanna
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
-
-- last: Mahoney
-  first: Charlie
-  role: Previously a Graduate Researcher
-  status: Lab Alumni
-  interests: built environment, natural environment, ethics
-  url: https://www.linkedin.com/in/charliemahoney1/
-
-- last: Boucaud
-  first: Nayah
-  role: Previously a Graduate Researcher
-  url: https://www.linkedin.com/in/nayah-boucaud
-  status: Lab Alumni
-  affiliation: Indiana University Bloomington
-  pic: /assets/img/people/Nayah.png
-  interests: technology education, computational thinking, cognitive sciences, third-order cybernetics 
+  role: Graduate Researcher
+  status: Past Team Member
