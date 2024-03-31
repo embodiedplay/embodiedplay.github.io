@@ -1,3 +1,6 @@
 title: "Science through Technology Enhanced Play (STEP)"
 theme: jekyll-theme-minimal
 logo: /assets/img/step_logo.png
+url: "https://embodiedplay.org" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
