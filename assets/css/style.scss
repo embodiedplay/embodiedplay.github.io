@@ -272,7 +272,7 @@ ul.pubs li {
         content: "\25B6"; /* Unicode for right-pointing triangle */
         position: absolute;
         top: 50%;
-        left: -1em; /* Position the triangle to the left of the title text */
+        left: -1.5em; /* Position the triangle to the left of the title text */
         transform: translateY(-50%);
         transition: transform 0.3s ease; /* Add transition effect */
     }
