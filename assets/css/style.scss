@@ -257,4 +257,27 @@ ul.pubs li {
         display: list-item;
         margin-bottom: 5px;
       }
+
+
+      .example-details {
+        display: none;
+    }
     
+    .example-title {
+        cursor: pointer;
+        position: relative; /* Ensure proper positioning of the triangle */
+    }
+    
+    .example-title::before {
+        content: "\25B6"; /* Unicode for right-pointing triangle */
+        position: absolute;
+        top: 50%;
+        left: -1em; /* Position the triangle to the left of the title text */
+        transform: translateY(-50%);
+        transition: transform 0.3s ease; /* Add transition effect */
+    }
+    
+    .example-title.expanded::before {
+        transform: translateY(-50%) rotate(90deg); /* Rotate the triangle for expanded state */
+    }
+        
