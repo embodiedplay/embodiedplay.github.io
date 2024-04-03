@@ -14,12 +14,12 @@ Below are some of the models we’ve implemented.
     <div class="example-details">
         {% capture markdown_content %}
 
-|   [![bee garden model](/assets/img/models/beevr_interactions_garden.gif){:width="200px"}](/assets/img/models/beevr_interactions_garden.gif){:target="_blank"}  Garden Environment |   [![bee parking lot model](/assets/img/models/beevr_interactions_parking_lot.gif){:width="200px"}](/assets/img/models/beevr_interactions_parking_lot.gif){:target="_blank"} Parking Lot Environment | 
+|   [![bee garden model](/assets/img/models/beevr_interactions_garden.gif){:width="200px"} Garden Environment<i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beevr_interactions_garden.gif){:target="_blank"}   |   [![bee parking lot model](/assets/img/models/beevr_interactions_parking_lot.gif){:width="200px"}  Parking Lot Environment<i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beevr_interactions_parking_lot.gif){:target="_blank"}| 
 
 
 This model was created as part of a Food Justice unit that was developed to help learners explore the value of local fresh food in their community. Learners have been asked to help the local mayor decide whether an empty field should be made into a community garden or a parking lot. In this GEM-STEP model, the learners take on the role of bees collecting nectar in either a garden or a parking lot to help them see how pollination and bee health are impacted by these two environments. 
 
- | [![conversation agent](/assets/img/models/beevr_chat.png)](/assets/img/models/beevr_chat.png){:target="_blank"} Conversation Agent For Supporting Inquiry |
+ | [![conversation agent](/assets/img/models/beevr_chat.png) Conversation Agent For Supporting Inquiry <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beevr_chat.png){:target="_blank"} |
 
 This is also the first model where we explicitly incorporated a conversational agent intended to help the learners share what they notice with a character who then offers some hints as well as suggestions for how to continue in their inquiry. The name BeeVR is what the model is referred to as in the Food Justice game.
 
@@ -38,11 +38,11 @@ The ease of moving quickly around the garden, and having to move further and in 
     <div class="example-details">
         {% capture markdown_content %}
 
-|   [![beaver interaction model](/assets/img/models/beaver_interactions.gif){:width="200px"}](/assets/img/models/beaver_interactions.gif){:target="_blank"}  Beaver Interactions |   [![beaver energy model](/assets/img/models/beaver_energy.gif){:width="200px"}](/assets/img/models/beaver_energy.gif){:target="_blank"} Beaver Energy  | 
+|   [![beaver interaction model](/assets/img/models/beaver_interactions.gif){:width="200px"} Beaver Interactions  <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beaver_interactions.gif){:target="_blank"}  |   [![beaver energy model](/assets/img/models/beaver_energy.gif){:width="200px"} Beaver Energy <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beaver_energy.gif){:target="_blank"}   | 
 
 Learners immerse themselves into our dynamic models of a wetland ecosystem, gaining a fascinating insight into the remarkable ways beavers transform their surroundings. In the first model, learners adopt the role of a beaver, collecting materials to build a dam. The 'Beaver Energy Model' serves as the second model, shedding light on the energy flow within the ecosystem. 
 
-|   [![beaver sequence model](/assets/img/models/beaver_sequence.gif){:width="200px"}](/assets/img/models/beaver_sequence.gif){:target="_blank"}  Beaver Sequence |   [![beaver script sample](/assets/img/models/beaver_script.png){:width="200px"}](/assets/img/models/beaver_script.png){:target="_blank"} Beaver Scripting  | 
+|   [![beaver sequence model](/assets/img/models/beaver_sequence.gif){:width="200px"}  Beaver Sequence <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beaver_sequence.gif){:target="_blank"} |   [![beaver script sample](/assets/img/models/beaver_script.png){:width="200px"} Beaver Scripting <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/beaver_script.png){:target="_blank"}  | 
 
 Our third model, the 'Sequence Model', emphasizes the far-reaching impact of beaver activities on the ecosystem. In all of these models, learners can also focus on key variables by editing the underlying script. Across these models, learners have the opportunity to understand the profound influence of a beaver's dam building, as it deepens streams, fostering a more diverse habitat for fish and plant growth.
 
@@ -62,7 +62,7 @@ By taking on the role of the beavers, we believe learners will appreciate how th
     <div class="example-details">
         {% capture markdown_content %}
 
-|   [![interaction model](/assets/img/models/aquatic_interactions.gif){:width="200px"}](/assets/img/models/aquatic_interactions.gif){:target="_blank"}   Interaction Model |   [![energy model](/assets/img/models/aquatic_energy.gif){:width="200px"}](/assets/img/models/aquatic_energy.gif){:target="_blank"} Energy Model | 
+|   [![interaction model](/assets/img/models/aquatic_interactions.gif){:width="200px"} Interaction Model <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/aquatic_interactions.gif){:target="_blank"}   |   [![energy model](/assets/img/models/aquatic_energy.gif){:width="200px"}  Energy Model <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/aquatic_energy.gif){:target="_blank"} | 
 
 In the Pond Interaction Model, learners act as a fish eating algae. To help learners see the interdependencies in the system, if they eat all of the algae, the algae won’t come back and the fish eventually die. However, if they space out their eating, the algae grow back when the sunlight touches them. The Aquatic Energy Model helps highlight this flow of energy from the sun, to algae (producers), to fish (consumers). By popular request from learners, we can also add a turtle to the Pond Interaction Model in later runs. The turtle can be an herbivore, carnivore, or omnivore to help further highlight interdependencies. 
 
@@ -84,7 +84,7 @@ In the interaction model, learners are encouraged to explore how their behavior 
     <div class="example-details">
         {% capture markdown_content %}
 
-|   [![interaction model](/assets/img/models/garden_interactions.png){:width="200px"}](/assets/img/models/garden_interactions.png){:target="_blank"}   Interaction Model |   [![energy model](/assets/img/models/garden_energy.png){:width="200px"}](/assets/img/models/garden_energy.png){:target="_blank"} Energy Model | 
+|   [![interaction model](/assets/img/models/garden_interactions.png){:width="200px"} Interaction Model <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/garden_interactions.png){:target="_blank"}    |   [![energy model](/assets/img/models/garden_energy.png){:width="200px"} Energy Model <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/garden_energy.png){:target="_blank"}  | 
 
 
 The Garden Ecosystem Interaction model was designed to be explored after learners already worked with the Pond Ecosystem Model. It is similar, but slightly more complex (it has more agents and interactions), intended to help promote transfer and an awareness of some general properties of ecosystems. Learners can either act as worms or bunnies in an ecosystem where the sun leads to plant growth, and bunnies (consumers) eat the plants and then eventually defecate. Worms consume organic waste to produce nutrients, which can help the plants grow. The garden ecosystem energy model is similar to the pond energy model, helping learners to see how energy and matter flow through the system.
