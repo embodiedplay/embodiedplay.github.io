@@ -278,6 +278,10 @@ ul.pubs li {
         cursor: pointer;
         position: relative; /* Ensure proper positioning of the triangle */
     }
+
+    .example-title:hover {
+      color: #000; /* Change text color to black on hover */
+  }
     
     .example-title::before {
         content: "\25B6"; /* Unicode for right-pointing triangle */
