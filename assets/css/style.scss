@@ -19,8 +19,13 @@ a:hover {
 }
 
 a:hover, a:active {
-    outline:0
+    outline:0;
 }
+
+table a:hover {
+  font-weight: normal;
+}
+
 
 #-------nav bar
 
@@ -263,6 +268,11 @@ ul.pubs li {
         display: none;
         
     }
+
+    .example-details table td  {
+    text-align: center;
+}
+
     
     .example-title {
         cursor: pointer;
