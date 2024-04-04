@@ -102,4 +102,23 @@ In the interaction model, learners use their bodies to help model the process of
     </div>
 </div>
 
+<div class="example">
+    <h3 class="example-title">Doing Science Model</h3>
+    <div class="example-details">
+        {% capture markdown_content %}
+
+|   [![doing science model](/assets/img/models/doing_science.png) Doing Science Model <i class="fa-solid fa-magnifying-glass"></i>](/assets/img/models/doing_science.png){:target="_blank"}    |
+
+
+The Doing Science Model was designed to allow learners to explore their ideas around what it means to be a scientist and to do science. As part of the lesson, learners controlled scientist avatars and had to decide where to go and what to do at each location in order to learn about and help garden and pond ecosystems. In the model, the scientists built knowledge slowly alone, but quickly when they collaborated with another scientist. 
+
+#### Role of Embodiment
+
+This model introduced a place-based model of science, intended to help learners appreciate that science can be done in many places, including homes, garden centers, labs, and conference centers. By taking on the perspective of a scientist, learners were able to imagine what it might be like to be one, through negotiating where to visit and why with their peers, and seeing how their actions improved the scientists’ collective knowledge and the health of the ecosystems. 
+
+        {% endcapture %}
+        {{ markdown_content | markdownify }}
+    </div>
+</div>
+
 <script src="/assets/exampleScript.js"></script>
