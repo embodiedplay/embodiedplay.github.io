@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /team/
+projectName: 'STEP'
+
 ---
 
 ## The STEP Team

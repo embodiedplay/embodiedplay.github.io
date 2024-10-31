@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /resources/
+projectName: 'STEP'
+
 ---
 
 ## STEP Resources

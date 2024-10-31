@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /publications/
+projectName: 'STEP'
 ---
 
 <h2> {{ site.data.rapt_site.pubsHeader }} </h2>
